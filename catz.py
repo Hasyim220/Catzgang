@@ -68,7 +68,7 @@ ooooooooooooo oooooooooooo   .oooooo.    ooooo     ooo ooooo   ooooo
           """)
     print(Fore.BLUE + Style.BRIGHT + "CATSGANG BY TEGUHGANK")
     print(Fore.YELLOW + Style.BRIGHT + "TEGUH GANK")
-    print(Fore.PURPLE + Style.BRIGHT + "DONASI DONG BANG :) 089619642255 GOPAY ")
+    print(Fore.GREEN + Style.BRIGHT + "DONASI DONG BANG :) 089619642255 GOPAY ")
     print(Fore.BLUE + Style.BRIGHT + "TEGUHGANK :)\n\n")        
 
 def complete_all_tasks():
