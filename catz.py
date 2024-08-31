@@ -47,7 +47,24 @@ def clear_task(task_id, headers):
         
 def print_welcome_message():
     print(Fore.WHITE + r"""
-          
+       
+ooooooooooooo oooooooooooo   .oooooo.    ooooo     ooo ooooo   ooooo
+8'   888   `8 `888'     `8  d8P'  `Y8b   `888'     `8' `888'   `888'
+     888       888         888            888       8   888     888 
+     888       888oooo8    888            888       8   888ooooo888 
+     888       888    "    888     ooooo  888       8   888     888 
+     888       888       o `88.    .88'   `88.    .8'   888     888 
+    o888o     o888ooooood8  `Y8bood8P'      `YbodP'    o888o   o888o
+                                                                    
+                                                                    
+                                                                    
+  .oooooo.          .o.       ooooo      ooo oooo    oooo           
+ d8P'  `Y8b        .888.      `888b.     `8' `888   .8P'            
+888               .8"888.      8 `88b.    8   888  d8'              
+888              .8' `888.     8   `88b.  8   88888[                
+888     ooooo   .88ooo8888.    8     `88b.8   888`88b.              
+`88.    .88'   .8'     `888.   8       `888   888  `88b.            
+ `Y8bood8P'   o88o     o8888o o8o        `8  o888o  o888o            
           """)
     print(Fore.BLUE + Style.BRIGHT + "CATSGANG BY TEGUHGANK")
     print(Fore.YELLOW + Style.BRIGHT + "TEGUH GANK")
